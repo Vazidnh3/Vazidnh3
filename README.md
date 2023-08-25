@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - A passionate Self-taught Android developer
-- I'm currently studying Computer Science and Engineering at the SKUCET.
+- I'm currently studying Computer Science and Engineering .
 - I'm on track for learning more about Data Structures.
 - I like to explore new technologies and develop software solutions and quick hacks.
 - You can shoot me an email at vazidnh3@gmail.com I'll try to respond as soon as I can
