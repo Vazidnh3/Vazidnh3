@@ -15,6 +15,7 @@
 - I like to explore new technologies and develop software solutions and quick hacks.
 - You can shoot me an email at vazidnh3@gmail.com I'll try to respond as soon as I can
 - Please have a look at my [Profile](https://github.com/Vazidnh3) for more details about me. I'm open to feedback and suggestions!
+- ![](https://komarev.com/ghpvc/?username=vazidnh3&style=flat-square&&abbreviated=true&color=blue)
 <br>
 
 
